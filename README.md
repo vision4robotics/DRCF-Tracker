@@ -2,6 +2,32 @@
 
 Matlab implementation of our Saliency-Aware Dual Regularized Correlation Filter (DRCF) tracker.
 
+# Publishment and Citation
+
+This paper has been published by IEEE TGRS.
+
+You can find this paper here: https://ieeexplore.ieee.org/document/9094040.
+
+Please cite this paper as: 
+
+@ARTICLE{9094040,
+
+  author={C. {Fu} and J. {Xu} and F. {Lin} and F. {Guo} and T. {Liu} and Z. {Zhang}},
+  
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  
+  title={Object Saliency-Aware Dual Regularized Correlation Filter for Real-Time Aerial Tracking}, 
+  
+  year={2020},
+  
+  volume={},
+  
+  number={},
+  
+  pages={1-12}
+  
+  }
+  
 # Abstract 
 Spatial regularization 1 has been proved as an effective method for alleviating the boundary effect and boosting the performance of a discriminative correlation filter (DCF) in aerial visual object tracking. However, existing spatial regularization methods usually treat the regularizer as a supplementary term apart from the main regression and neglect to regularize the filter involved in the correlation operation. To address the aforementioned issue, this article introduces a novel object saliency-aware dual regularized correlation filter, i.e., DRCF.
 
